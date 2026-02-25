@@ -1,0 +1,104 @@
+# Contradex APCM — Architecture Overview
+
+## Purpose
+
+Contradex APCM is a distributed architectural ecosystem designed for deterministic evolution of logic, semantics, and applied systems.
+
+The architecture is intentionally layered to separate stability from experimentation.
+
+---
+
+## High-Level Topology
+
+Public Interface
+        ↓
+Evolution Labs
+        ↓
+Protected Core Systems
+
+---
+
+## Layers Explained
+
+### 1. Public Interface Layer
+
+This repository represents the public architectural surface.
+
+Purpose:
+
+- Explain concepts
+- Provide high-level direction
+- Attract contributors
+- Describe evolution philosophy
+
+This layer does NOT contain core implementation.
+
+---
+
+### 2. Evolution Labs
+
+Labs are experimental environments where new ideas evolve.
+
+Characteristics:
+
+- Rapid iteration
+- Safe experimentation
+- Architectural exploration
+
+Only stabilized patterns may move deeper into the ecosystem.
+
+---
+
+### 3. Core Systems
+
+Core systems are protected stability zones.
+
+Purpose:
+
+- Define foundational contracts
+- Maintain deterministic behavior
+- Provide long-term architectural gravity
+
+Core evolution is strictly controlled.
+
+---
+
+## Evolution Principle
+
+Architecture defines implementation.
+
+New ideas follow this path:
+
+Public Understanding
+        ↓
+Lab Experimentation
+        ↓
+Architectural Validation
+        ↓
+Core Adoption
+
+---
+
+## Contribution Philosophy
+
+The ecosystem grows through evolution, not direct access.
+
+Contributors are encouraged to:
+
+1. Understand the architecture.
+2. Experiment in Labs.
+3. Demonstrate architectural alignment.
+
+---
+
+## Design Intent
+
+Contradex APCM separates:
+
+- visibility from authority
+- experimentation from stability
+- ideas from immutable foundations
+
+This enables long-term predictable evolution.
+
+---
