@@ -105,24 +105,24 @@ This enables long-term predictable evolution.
 
 ## Core Release Policy
 
-The core systems of Contradex APCM are currently maintained as protected stability zones.
+Core systems are currently maintained as protected stability zones.
 
-This decision exists to ensure architectural integrity during early evolution phases.
+This ensures architectural integrity during early evolution phases.
 
-However, the long-term vision of the ecosystem includes progressive openness.
+The long-term vision of the ecosystem includes progressive openness.
 
-After completion of required steps — including:
+After completion of required stages — including:
 
 - grant approvals,
 - governance agreements,
 - legal and structural validation,
 
-a properly selected and stable portion of the core will be released into open access.
+a selected and stable portion of the core will be released into open access.
 
 ### Important Clarifications
 
 - The release will be **partial and intentional**, not a full exposure of internal infrastructure.
 - Only components that reached architectural maturity will be published.
-- The goal is to balance openness with long-term system stability.
+- Openness is aligned with stability, not speed.
 
-This approach allows the ecosystem to evolve responsibly while preserving trust and transparency.
+This approach allows the ecosystem to evolve responsibly while preserving trust and long-term sustainability.
