@@ -16,3 +16,5 @@ Architecture defines implementation.
 
 This repository is a public architectural interface.
 Core implementation is intentionally isolated.
+
+See COLLABORATION.md for research collaboration.
