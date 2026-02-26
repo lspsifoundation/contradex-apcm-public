@@ -12,6 +12,16 @@ Architecture defines implementation.
 - Labs (evolution zones)
 - Commercial layer (integration surface)
 
+## Architectural Authority
+
+Contradex evolves through validated architectural decisions.
+
+Public repositories represent research and collaboration layers.
+
+Core systems exist as protected stability zones and are not driven by direct feature contributions.
+
+Architecture leads implementation.
+
 ## Important
 
 This repository is a public architectural interface.
